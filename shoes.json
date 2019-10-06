@@ -1,0 +1,123 @@
+{
+    "sneakers":{
+        "Air Force One low":{
+            "type":"Nike",
+            "quanity":10,
+            "price":100
+
+        },
+        "Air Force One mid":{
+            "type":"Nike",
+            "quanity":10,
+            "price":110
+
+        },
+        "Air Force One high":{
+            "type":"Nike",
+            "quanity":10,
+            "price":120
+
+        },
+        "Vapormax":{
+            "type":"Nike",
+            "quanity":10,
+            "price":190
+
+        },
+        "Vapormax Plus":{
+            "type":"Nike",
+            "quanity":10,
+            "price":220
+
+        },
+        "Air Jordan 1":{
+            "type":"Jordan",
+            "quanity":10,
+            "price":170
+
+        },
+        "Air Jordan 3":{
+            "type":"Jordans",
+            "quanity":10,
+            "price":170
+
+        },
+        "Air Jordan 5":{
+            "type":"Jordans",
+            "quanity":10,
+            "price":180
+
+        },
+        "Air Jordan 7":{
+            "type":"Jordans",
+            "quanity":10,
+            "price":170
+
+        }, "Air Jordan 11":{
+            "type":"Jordans",
+            "quanity":10,
+            "price":240
+
+        },
+        "Yeezy 350":{
+            "type":"Adidas",
+            "quanity":10,
+            "price":190
+
+        },
+        "Yeezy 500":{
+            "type":"Adidas",
+            "quanity":10,
+            "price":150
+
+        },
+        "Yeezy 700":{
+            "type":"Adidas",
+            "quanity":10,
+            "price":150
+
+        },
+        "Superstar":{
+            "type":"Adidas",
+            "quanity":10,
+            "price":80
+
+        },
+        "Stan Smith":{
+            "type":"Adidas",
+            "quanity":10,
+            "price":90
+
+        },
+        "Suede Classic":{
+            "type":"Puma",
+            "quanity":10,
+            "price":70
+
+        },
+        "Thunder Spectra":{
+            "type":"Puma",
+            "quanity":10,
+            "price":70
+
+        },
+        "RX-Toys":{
+            "type":"Puma",
+            "quanity":10,
+            "price":80
+
+        },
+        "Fenty Creeper":{
+            "type":"Puma",
+            "quanity":10,
+            "price":100
+
+        },
+        "Turin":{
+            "type":"Puma",
+            "quanity":10,
+            "price":60
+
+        }
+    }
+}
